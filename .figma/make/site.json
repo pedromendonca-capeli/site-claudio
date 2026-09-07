@@ -1,0 +1,10 @@
+{
+  "description": "Create a personalized, elegant birthday tribute website featuring family memories, heartfelt messages, and subtle Corinthians-inspired design for Claudio.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

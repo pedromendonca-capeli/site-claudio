@@ -383,7 +383,8 @@ export default function App() {
                 O futebol não é só um esporte para o Papai — é parte da sua identidade. O Corinthians entrou na vida dele e nunca mais saiu.
               </p>
               <p className="text-white/50 text-base leading-relaxed font-light">
-                Conte aqui uma história do Papai com o Corinthians: uma partida inesquecível, uma taça comemorada em família, um dia especial na Arena ou na TV assistindo junto com quem ele ama.
+                No dia 16 de dezembro de 2012, papai decidiu reunir todo mundo em casa para uma manhã especial. Preparou um churrasco e, juntos, assistimos ao Corinthians conquistar o bicampeonato mundial, dessa vez diante do Chelsea. Foi um daqueles dias que ficam guardados na memória, não apenas pelo título, mas por estarmos todos juntos, celebrando e vivendo aquele momento como uma família.
+
               </p>
               <Divider />
               <div className="flex items-center gap-4">
